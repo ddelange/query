@@ -531,4 +531,3 @@ CI tests every release against All supported Node.js versions.
 
 We rely on semantic-release and Greenkeeper to maintain our module and dependency versions.
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/pelias/query.svg)](https://greenkeeper.io/)
